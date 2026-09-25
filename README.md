@@ -45,7 +45,7 @@ Prompt de la escena: Wide 3:2 realistic photo of a fictional elderly silver-hair
 ## Mejoras de la experiencia
 
 - El avatar de Karol, su tarjeta lateral y el contacto del perfil de María abren Mi perfil.
-- Inicio con bienestar desplegable, tarjeta de dispositivo ampliada y actividad debajo.
+- Inicio con bienestar desplegable, actividad reciente antes de la tarjeta de dispositivo ampliada.
 - Las tarjetas de descanso y actividad abren el historial con su filtro correspondiente.
 - Historial con hoy, ayer y otros tres días anteriores: cada fecha tiene eventos distintos y detalles con su fecha correcta.
 - Las fechas de la demo se calculan al abrir la app. El calendario también permite explorar días sin registros, mostrando un estado vacío.
@@ -57,3 +57,7 @@ El flujo es: perfil del cuidador → preregistro de la persona → Face ID simul
 El preregistro solicita nombre de la persona con demencia, fecha de nacimiento, edad calculada automáticamente, género y antecedentes médicos. Estos últimos son opcionales y pueden incluir enfermedades, alergias o tratamientos de ejemplo.
 
 Los datos se muestran en Persona (Información y Salud), pueden corregirse desde Editar datos y se mantienen solo en memoria hasta recargar. No hay base de datos, envío de estos datos ni análisis médico. El monitoreo y los eventos siguen siendo simulados.
+
+## Alertas de demostración
+
+Urgente, Atención y Normal incluyen un evento cada una. Cada tarjeta abre un detalle propio con horario, duración, observaciones, imagen de la sala, recomendación de ejemplo y acciones de monitoreo y contacto. Los filtros muestran el número de registros y conservan la categoría al volver del detalle. Contactar abre una explicación; no realiza una llamada.
