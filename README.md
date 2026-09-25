@@ -49,3 +49,11 @@ Prompt de la escena: Wide 3:2 realistic photo of a fictional elderly silver-hair
 - Las tarjetas de descanso y actividad abren el historial con su filtro correspondiente.
 - Historial con hoy, ayer y otros tres días anteriores: cada fecha tiene eventos distintos y detalles con su fecha correcta.
 - Las fechas de la demo se calculan al abrir la app. El calendario también permite explorar días sin registros, mostrando un estado vacío.
+
+## Preregistro de la persona cuidada
+
+El flujo es: perfil del cuidador → preregistro de la persona → Face ID simulado → inicio.
+
+El preregistro solicita nombre de la persona con demencia, fecha de nacimiento, edad calculada automáticamente, género y antecedentes médicos. Estos últimos son opcionales y pueden incluir enfermedades, alergias o tratamientos de ejemplo.
+
+Los datos se muestran en Persona (Información y Salud), pueden corregirse desde Editar datos y se mantienen solo en memoria hasta recargar. No hay base de datos, envío de estos datos ni análisis médico. El monitoreo y los eventos siguen siendo simulados.
