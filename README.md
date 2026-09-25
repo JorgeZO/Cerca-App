@@ -6,7 +6,7 @@ Prototipo visual e interactivo de acompañamiento de personas mayores. Nombre in
 
 - Acceso Face ID simulado con animación y confirmación.
 - Acceso alternativo: código **123456**.
-- Inicio, alertas y sus detalles, monitoreo, historial con filtros, perfil con pestañas, asistente con respuestas predefinidas y ajustes del dispositivo.
+- Inicio, alertas y sus detalles, monitoreo, historial por fecha con filtros, perfil de Karol y perfil de María con pestañas, asistente con respuestas predefinidas y ajustes del dispositivo.
 - El botón de rostro en la barra superior permite repetir el acceso para la presentación.
 - El monitoreo se puede ampliar. Pulsa Escape o el botón de ampliar para cerrarlo.
 
@@ -39,3 +39,11 @@ Logo e imagen de sala generados con la herramienta integrada ImageGen. El símbo
 Prompt del logo: Square minimal refined teal #12645c symbol combining embracing arcs and a small central person/heart. Flat geometric clean logo, precise balanced silhouette. Centered symbol on ivory #f6f7f4 background, generous clear margin. No text, gradients, mockup or watermark.
 
 Prompt de la escena: Wide 3:2 realistic photo of a fictional elderly silver-haired woman seated on a sofa reading a book in a bright beautiful living room, plants and sunlight. Natural candid photography, elevated indoor camera position, calm and dignified atmosphere. No UI, overlay, timestamp, text or watermark.
+
+## Mejoras de la experiencia
+
+- El avatar de Karol, su tarjeta lateral y el contacto del perfil de María abren Mi perfil.
+- Inicio con bienestar desplegable, tarjeta de dispositivo ampliada y actividad debajo.
+- Las tarjetas de descanso y actividad abren el historial con su filtro correspondiente.
+- Historial con hoy, ayer y otros tres días anteriores: cada fecha tiene eventos distintos y detalles con su fecha correcta.
+- Las fechas de la demo se calculan al abrir la app. El calendario también permite explorar días sin registros, mostrando un estado vacío.
