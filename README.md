@@ -4,6 +4,8 @@ Prototipo visual e interactivo de acompañamiento de personas mayores. Nombre in
 
 ## Demostración
 
+- Registro de demostración antes de Face ID: nombre, correo y contraseña inventados, con botón para rellenar datos de ejemplo.
+- El nombre y el correo se reflejan en el perfil durante la sesión. No se crea una cuenta real ni se envía información; la contraseña se descarta al continuar. Recargar reinicia el registro.
 - Acceso Face ID simulado con animación y confirmación.
 - Acceso alternativo: código **123456**.
 - Inicio, alertas y sus detalles, monitoreo, historial por fecha con filtros, perfil de Karol y perfil de María con pestañas, asistente con respuestas predefinidas y ajustes del dispositivo.
